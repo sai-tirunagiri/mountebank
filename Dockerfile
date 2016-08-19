@@ -1,4 +1,4 @@
-FROM andyrbell/mountebank:1.6.0-beta.1107
+FROM andyrbell/mountebank:1.6.0-1
 
 MAINTAINER Andy Bell "andyrbell@gmail.com"
 
