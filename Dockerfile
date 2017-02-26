@@ -1,6 +1,4 @@
-FROM andyrbell/mountebank:1.7.2-01
-
-MAINTAINER Andy Bell "andyrbell@gmail.com"
+FROM andyrbell/mountebank:1.9.0-01
 
 EXPOSE 4546 5555
 
